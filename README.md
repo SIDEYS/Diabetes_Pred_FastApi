@@ -1,1 +1,1 @@
-FastApi for diabetes production
+FastApi for diabetes prediction
